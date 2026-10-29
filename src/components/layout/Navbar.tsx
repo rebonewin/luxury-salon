@@ -79,7 +79,6 @@ export default function Navbar() {
         <Link
           href="/"
           className="group flex shrink-0 flex-col leading-none"
-          aria-label="Luxury Salon — return to the home page"
         >
           <span className="font-display text-[1.5rem] tracking-[0.16em] transition-colors duration-500 group-hover:text-gold sm:text-[1.65rem]">
             LUXURY

@@ -31,7 +31,7 @@ export default function ServicesPreview() {
             </Link>
             <a
               href={site.phoneHref}
-              className="inline-flex items-center gap-2.5 text-sm text-ink/55 transition-colors hover:text-gold-deep"
+              className="inline-flex items-center gap-2.5 text-sm text-ink/65 transition-colors hover:text-gold-deep"
             >
               <Phone
                 aria-hidden="true"
@@ -51,7 +51,7 @@ export default function ServicesPreview() {
 
         <div className="mt-12 flex flex-col gap-3 border-t border-ink/10 pt-6 text-[0.58rem] font-medium uppercase tracking-[0.16em] text-stone sm:flex-row sm:items-center sm:justify-between">
           <p>Starting prices from ₹1,200 · Consultation included</p>
-          <p className="text-ink/35">{site.priceNote}</p>
+          <p className="text-ink/60">{site.priceNote}</p>
         </div>
       </div>
     </section>

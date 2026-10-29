@@ -15,7 +15,6 @@ export default function ServiceCard({ category }: ServiceCardProps) {
     <Link
       href={`/services#${category.slug}`}
       className="group block"
-      aria-label={`${category.name} services at Luxury Salon`}
     >
       <div className="relative aspect-[4/5] overflow-hidden bg-ink">
         <Image
@@ -67,7 +66,7 @@ export default function ServiceCard({ category }: ServiceCardProps) {
         <p className="text-[0.68rem] font-medium uppercase leading-relaxed tracking-[0.14em] text-stone">
           {category.services.map((service) => service.name).join(" · ")}
         </p>
-        <span className="eyebrow shrink-0 text-[0.55rem] text-ink/40 transition-colors duration-300 group-hover:text-gold-deep">
+        <span className="eyebrow shrink-0 text-[0.55rem] text-ink/60 transition-colors duration-300 group-hover:text-gold-deep">
           View
         </span>
       </div>

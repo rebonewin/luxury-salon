@@ -64,7 +64,6 @@ export default function Footer() {
             <Link
               href="/"
               className="inline-flex flex-col leading-none transition-colors hover:text-gold-light"
-              aria-label="Luxury Salon — home"
             >
               <span className="font-display text-2xl tracking-[0.16em]">
                 LUXURY

@@ -80,7 +80,7 @@ export default function Reviews() {
             <div>
               <p className="font-display text-4xl text-ink">
                 0{index + 1}
-                <span className="text-ink/25"> / 0{reviews.length}</span>
+                <span className="text-ink/50"> / 0{reviews.length}</span>
               </p>
               <div className="mt-5 flex gap-1.5">
                 {reviews.map((item, itemIndex) => (
@@ -124,6 +124,7 @@ export default function Reviews() {
               >
                 <div
                   className="flex gap-1 text-gold-deep"
+                  role="img"
                   aria-label="Rated 5 out of 5"
                 >
                   {Array.from({ length: 5 }).map((_, starIndex) => (
