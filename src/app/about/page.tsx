@@ -135,7 +135,7 @@ export default function AboutPage() {
               asset="salonWide"
               alt="Warm light, styling chairs and considered details inside Luxury Salon"
               className="aspect-[16/10] w-full md:aspect-[21/9]"
-              sizes="100vw"
+              sizes="(min-width: 94rem) 1376px, (min-width: 1280px) calc(100vw - 128px), (min-width: 768px) calc(100vw - 80px), calc(100vw - 40px)"
               strength={8}
             />
             <div className="mt-4 flex flex-col gap-2 border-t border-ink/10 pt-3 sm:flex-row sm:items-center sm:justify-between">

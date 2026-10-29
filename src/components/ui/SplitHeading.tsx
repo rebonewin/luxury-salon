@@ -35,7 +35,9 @@ export default function SplitHeading({
             "block overflow-hidden pb-[0.08em] -mb-[0.08em]",
             lineClassName,
           )}
-          initial={reduce ? false : "hidden"}
+          initial={
+            reduce || trigger === "mount" ? false : "hidden"
+          }
           animate={
             reduce
               ? "visible"
