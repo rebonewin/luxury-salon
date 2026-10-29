@@ -116,9 +116,9 @@ export default function Reviews() {
             <AnimatePresence mode="wait" initial={false}>
               <motion.blockquote
                 key={index}
-                initial={reduce ? false : { opacity: 0, y: 20 }}
-                animate={{ opacity: 1, y: 0 }}
-                exit={reduce ? undefined : { opacity: 0, y: -14 }}
+                initial={reduce ? false : { y: 20 }}
+                animate={{ y: 0 }}
+                exit={reduce ? undefined : { y: -14 }}
                 transition={{ duration: 0.55, ease: [0.22, 1, 0.36, 1] }}
                 className="w-full"
               >
