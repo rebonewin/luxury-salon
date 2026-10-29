@@ -1,0 +1,170 @@
+{
+  "hero": {
+    "src": "/images/salon/hero.webp",
+    "width": 2400,
+    "height": 1600,
+    "blurDataURL": "data:image/webp;base64,UklGRm4AAABXRUJQVlA4IGIAAACwAwCdASoYABAAPwFIu1grIqckmAFgIAliALsgTEhgKoMN6UWgAAD+7FD7aPnK67UQHLIu9E3LZd6sg3UDIYOUffZnnTX6ZQ3jp3DbK6lEe3rg+9NtpBw1gRNSasfNuPlAAA=="
+  },
+  "space": {
+    "src": "/images/salon/about-space.webp",
+    "width": 1200,
+    "height": 1500,
+    "blurDataURL": "data:image/webp;base64,UklGRnYAAABXRUJQVlA4IGoAAADQBACdASoYAB4APwFqq06rJiOiMAgBYCAJYwC06A058J7x7eJoPZWrpevP41EAAADW19c7YWObwr33ZQ05ze/Z2CrYP5itvlHeURC/cSnOKNknVj+Myc2F6RnW2xiZBWq0edl61emFQAAA"
+  },
+  "portrait": {
+    "src": "/images/salon/about-portrait.webp",
+    "width": 1200,
+    "height": 1600,
+    "blurDataURL": "data:image/webp;base64,UklGRpQAAABXRUJQVlA4IIgAAACQBQCdASoYACAAPwFurlCrJiQiqA1RYCAJQBYdgexCEoGvEnSOQBIDqEVEotRxPfmDMY1qAAD+8rIN3Iurilya/GF2pA7CsDgHf8Ss1gxJx8bOZxxz1lw9cXyX4Ai7iR7Ac693weesBqNbmzDLlr0kqx3nvUbhuHzhKyiHuhWqN+/Vl9sRAAAA"
+  },
+  "studio": {
+    "src": "/images/salon/contact-studio.webp",
+    "width": 1200,
+    "height": 1500,
+    "blurDataURL": "data:image/webp;base64,UklGRnYAAABXRUJQVlA4IGoAAADwBACdASoYAB4APvVkqk6qpaQiN/VYAVAeiWUAzuxGFFfuAm6liIgd+5eYCei3OkgA/laSr0Ye4NDReB/aMQ4skNFrM3xACVLu+A8MR7Ct7ix1A0lfUNXHFEZaX/8E0+oveBTTXIKVQAAA"
+  },
+  "cut": {
+    "src": "/images/services/hair-cut.webp",
+    "width": 1200,
+    "height": 1500,
+    "blurDataURL": "data:image/webp;base64,UklGRpIAAABXRUJQVlA4IIYAAABwBQCdASoYAB4APwF0r1KrJqQiqAqpYCAJQBlWjA2WqRL8jvAY0t1c6vTphUfm8DIcdOuIAP774W+bHoZmuhn8f2gLDKb44QDDx999imxiHYRjivv7XzDFAFm3afs1TQWrNi5fsyoUQ/P1UJRV44PHmgk3f5G3duGjgtFLx2a0gVIx2QAAAA=="
+  },
+  "styling": {
+    "src": "/images/services/hair-styling.webp",
+    "width": 1200,
+    "height": 1500,
+    "blurDataURL": "data:image/webp;base64,UklGRpIAAABXRUJQVlA4IIYAAACQBQCdASoYAB4APwFosFCrJSSisBgIAWAgCUATpmmIo83V9PGi55rlIMTSGKlBUtir1qN2wAD+5xsgex2AX3ioTXy+35KmOZ41cIhaR1F0yVj1cBA0/LOkIRximhMEKgy5Lkiu+0WLiflC/9gSyHyvtqtGJ0vr3Lzd6oQSjttzoGjZhmAAAA=="
+  },
+  "color": {
+    "src": "/images/services/hair-color.webp",
+    "width": 1200,
+    "height": 1500,
+    "blurDataURL": "data:image/webp;base64,UklGRpgAAABXRUJQVlA4IIwAAABwBQCdASoYAB4APulmpU6pJiOiN/qoASAdCWMArABS1usqv0S349rtUI6gpDa00kRHNNbAAP7zgrNf+0fBja28ETQo80IfekQYmbRBdyinkmWDUEAty8uPBNPpmfoqD0KzN6QEXTmi+UsFsyZ78cy9PQlS7gx5TMeaXlC891uNBoKCuIuDwYMEoMAAAA=="
+  },
+  "treatment": {
+    "src": "/images/services/hair-treatment.webp",
+    "width": 1200,
+    "height": 1500,
+    "blurDataURL": "data:image/webp;base64,UklGRpwAAABXRUJQVlA4IJAAAABQBQCdASoYAB4APwFwrFGrJiQiqA1RYCAJZQDMWA8mnyK3zs4UW2uPVctdcZg1LXR2fIAA/sk+QgsHW6TPUAqPxT8+S0ZuFZDuPit0ZDiBri1hEERZroVFeHBER8B88w0IBFQNT6dXLCQkhLAtnR1EZg5HdP4bQV76O28/hq4l/W+FQi3x7sOHzXfzU3sAAAA="
+  },
+  "facial": {
+    "src": "/images/services/facial.webp",
+    "width": 1200,
+    "height": 1500,
+    "blurDataURL": "data:image/webp;base64,UklGRn4AAABXRUJQVlA4IHIAAAAwBQCdASoYAB4APvFmrE6ppiSiMAwBMB4JYwCdACFr3bTZD+SVWPfxWzDBFoPdmlyeAAD+w1mlPVHkJ757kHzAnCPpU+j/JJcRtjgy23t09D9FnanB4wzZjEC4eAbj2uGPtOPrt1Zhxxj9vq4vKP+4sAA="
+  },
+  "makeup": {
+    "src": "/images/services/makeup.webp",
+    "width": 1200,
+    "height": 1500,
+    "blurDataURL": "data:image/webp;base64,UklGRoAAAABXRUJQVlA4IHQAAABwBQCdASoYAB4APuVcpE6pJSOiN+gBIByJQBWGcBCZ/ZdwDRV4o2f9IfCHLiYcuIAFUIgAAP7DPcL+vCW3Njzyf32kZ3smi46SxYD5pcFf6zvpcVWe7NFbKEOBa/evVxzoIKWDIUDTD7vbyqtEA83v2PQmAA=="
+  },
+  "skin": {
+    "src": "/images/services/skin-care.webp",
+    "width": 1200,
+    "height": 1500,
+    "blurDataURL": "data:image/webp;base64,UklGRnoAAABXRUJQVlA4IG4AAADQBACdASoYAB4APwF0sVKrJqSiqAqpYCAJZQC/OAdMtd19ttszfUMy7jRpNYB4AADY/v4LmC7KjD52K4dgpQr5aycT8Lr4unUyA+ZuFJosI9iTRkRSjLYYpXnOleZ4O2kuThxyIroxglHbnQAAAA=="
+  },
+  "bridal-makeup": {
+    "src": "/images/services/bridal-makeup.webp",
+    "width": 1200,
+    "height": 1500,
+    "blurDataURL": "data:image/webp;base64,UklGRp4AAABXRUJQVlA4IJIAAACQBQCdASoYAB4APwF2tFQrJySjKAgBYCAJZACsM2QBYlpbuIQaEVkAxP6IlOuwJFHNCvDuAAD+r3O1NG3rwjTP8fUEzNUW3Syt5eUP2RtyCXX4biq24e0+Pc/fjB3ZnjH0yzOtB+Rtbfz//Mnk1gJA8K7ysy6RzyTmzipP3Lkt+XfbdgTO5lWrIyqi3AeJPeAAAA=="
+  },
+  "wedding": {
+    "src": "/images/services/wedding-packages.webp",
+    "width": 1200,
+    "height": 1500,
+    "blurDataURL": "data:image/webp;base64,UklGRowAAABXRUJQVlA4IIAAAABwBQCdASoYAB4APvlop06qpiMiMAwBUB8JYgCdMy/DQZhjIqqtdoVbth1wdrQDjMxCoVAAAP7ukTbSsSZM91sRMiVc46hLtKfofXexcX9YfgKWTy4L0l5DrUqHWgZdc3VS1qeDq9yYQ4rHWj2uJ5oz7aL+fWZP3XPmu+KKuAAAAA=="
+  },
+  "veil": {
+    "src": "/images/gallery/01-veil.webp",
+    "width": 1400,
+    "height": 2104,
+    "blurDataURL": "data:image/webp;base64,UklGRroAAABXRUJQVlA4IK4AAADwBwCdASoYACQAPwForU8rJaQiMBVdUWAgCWYAtSFBVT4JEYAHmW1SZ2FNs8JsIfMwyH5UmRv+tp1eortzfyqFt6ZOjzMEcAAA/FwEK+9a74qyebEyN74rnrMfG+Nxboudm5oQmcjrDH4wpEk/K9TzA3XDDPOjUpqbUt8H2syN3AFdv9PhjTjWahq5aNNckkjAFJmpiszLwpzYCUHDele5s8JNQUsRP2scUazGAAA="
+  },
+  "profile": {
+    "src": "/images/gallery/02-profile.webp",
+    "width": 1400,
+    "height": 2100,
+    "blurDataURL": "data:image/webp;base64,UklGRqoAAABXRUJQVlA4IJ4AAABQBgCdASoYACQAPwFyrVIrJqQiqrgMAWAgCUATpnJwI1MQCvdftvfsb85sav93NDsZPo2JzFj//p88AAD+6+zPVOPFc66HuL2NyAY2vaG6JfrFSIeixdlJXSf57RA31H+H/W6aAoKAWMUIIGqceGl4c8U1H9vJ44hyD1N5wgHq47F53eG8I1qKvoz2udJKEOMGPo5rPXg2QRkkPwAAAA=="
+  },
+  "radiance": {
+    "src": "/images/gallery/03-radiance.webp",
+    "width": 1400,
+    "height": 2101,
+    "blurDataURL": "data:image/webp;base64,UklGRqIAAABXRUJQVlA4IJYAAAAwBgCdASoYACQAPwFosFCrJaSisBVaqWAgCUAYG4Fm185hw3D+JoFDnykDG4Rd8cYcxFLEA3Ks98rQAP7yq5r7Jk6FvUKmaNC2Y/ozkpgE5v9dJ2Wr4vbkSxoOzgeUJamOG/qu1xIljw7WkA//tkQxYmklhPliibaWxGBj4uLQt2GmUjnTV/4R/LwAU8ZgnMBlVm8AAAA="
+  },
+  "celebration": {
+    "src": "/images/gallery/04-celebration.webp",
+    "width": 1400,
+    "height": 934,
+    "blurDataURL": "data:image/webp;base64,UklGRlwAAABXRUJQVlA4IFAAAAAQBACdASoYABAAPwFusFArJqSisAgBYCAJZgC7MoADSxUWweGkm97w9AD+7oTyX5wU6IHyjTLXHdQY9vCk/xQ6HwYHpNLL8nKxZzqsoNQAAA=="
+  },
+  "golden": {
+    "src": "/images/gallery/05-golden.webp",
+    "width": 1400,
+    "height": 2100,
+    "blurDataURL": "data:image/webp;base64,UklGRqQAAABXRUJQVlA4IJgAAACQBgCdASoYACQAPv1qrE6rJiQiKq35YB+JZQDE2Bab48v0kse8yI+t7DNuNXfVl6u0ZR3WsamtspXPRKAAAP7jM4tSPQ9KfWvSownpUVN6+VE4oO5ctdHyXwCJZEfKL2YQpsueUOTVRzPKsrXaKow3qwBZS4f42AOqsJehKaOxUM+FsGH+oYpCenrgEXWMIMkO/lP2CNgAAA=="
+  },
+  "ritual": {
+    "src": "/images/gallery/06-ritual.webp",
+    "width": 1600,
+    "height": 2400,
+    "blurDataURL": "data:image/webp;base64,UklGRrAAAABXRUJQVlA4IKQAAACwBgCdASoYACQAPwFkrk8rJSQiMBqqqWAgCWUAy2gSTjlJlx1H5S5yTtZwxRLZTpBpKsls0k/51SmeZnN8AAD+ruAF5EEOim0CIBn/hDTYVl3RvmC9wNxoojTCv8t93T8cQuV0scB4k1CQ0rz4an9gioCX285+qU618e8UVNwiM6Xr7+klwsyofgStHvD35R0zAzBLuCH6+x2BC0iY9GjFoWAAAA=="
+  },
+  "colour": {
+    "src": "/images/gallery/07-colour.webp",
+    "width": 1400,
+    "height": 2100,
+    "blurDataURL": "data:image/webp;base64,UklGRpoAAABXRUJQVlA4II4AAACQBgCdASoYACQAPwFoslCrJaUisBVaqWAgCWcAxzAJCT2HkImcNfqq3WwQn1kqDk8COFmC3nzQZ86r5bAAAPfbUIN8kysSp3YSvT8ekE8/uxR+3QLwREsU1V7wJ9IrbyIbPAlT4ZIkPb2I5BgO+ovw7rVND0/79+fVdDMPeIeMAXQtv3GDMrTed6aYBwAA"
+  },
+  "atelier": {
+    "src": "/images/gallery/08-atelier.webp",
+    "width": 1200,
+    "height": 1800,
+    "blurDataURL": "data:image/webp;base64,UklGRqoAAABXRUJQVlA4IJ4AAADQBgCdASoYACQAPwFsrVCrJaQisBVaqWAgCWcAx+QGp6Mw2kAZkmqyWc39JDc89/rn5g5aT4OHOjXcoUuz5QAA9yeLS+zEUF4kCTHAZGB475g6vpDdmzJ7fXfD+O40gYB7aRSxa0dKTIA1F13qvH5Bvd/tj4PQ0qulV9GaHS6Z4lh+hcnYoWmP6c8Op10fAvG241wAyFbbjSYSEAAAAA=="
+  },
+  "waves": {
+    "src": "/images/gallery/09-waves.webp",
+    "width": 1400,
+    "height": 934,
+    "blurDataURL": "data:image/webp;base64,UklGRm4AAABXRUJQVlA4IGIAAADwAwCdASoYABAAPwFsrU8rJiQiMAgBYCAJQBYdgyM66dNd/3k7kU88AP7D+asw1VY4lF0N9pQNZTcG0w1MNfJxEs6ndG0fGam8/mKnPShKqoHOl21zjVurKvhLDQ2+VYAAAA=="
+  },
+  "detail": {
+    "src": "/images/gallery/10-detail.webp",
+    "width": 1400,
+    "height": 2100,
+    "blurDataURL": "data:image/webp;base64,UklGRqgAAABXRUJQVlA4IJwAAAAwBgCdASoYACQAPuloqk6pJqQiNVgMASAdCUAX2AJC39gbofBSxDAso9jUY1jokpP2XqKrB5kMv+WAAP6vjiRt2yVrrsUkJOYKfYiDOfDjyw69DgZ2dLuZP3Crvca1Sy2F1OXbw2hBtaU8Ad4faYfdwDO3XhtCtpW3FM2w79X5gYzkhgmfq/BvLKTJnsQ0IYg5xnPaPAe/Vg1gAAA="
+  },
+  "scissors": {
+    "src": "/images/gallery/11-scissors.webp",
+    "width": 1400,
+    "height": 2100,
+    "blurDataURL": "data:image/webp;base64,UklGRqYAAABXRUJQVlA4IJoAAAAwBgCdASoYACQAPvVkqU6qpaQiOrM4AVAeiWMAy9dMRYd+CUuFYiUxsRqp/Uzypr8hmmLiLS8cRbAAAP73ghNVut81JsD54mTLWDXp66fJjivv9jshiF3SEeBrJ0jqARYHa4SCcold+cLXXzNu9PzywW9NkAeeSyOePw3T7mY92trvog04A+MFqePl47lbhNz9VVieViYIvAAA"
+  },
+  "space-gallery": {
+    "src": "/images/gallery/12-space.webp",
+    "width": 1600,
+    "height": 900,
+    "blurDataURL": "data:image/webp;base64,UklGRloAAABXRUJQVlA4IE4AAADQAwCdASoYAA4APwFIu1grIqckmAFgIAljAJ0AFrVTEGJNbZQrLcwAzEAZyvLAhSYH+JNMiCBRNHXKa+5xma79IY1rd9aUqgrW6Vh0AAA="
+  },
+  "salonFloor": {
+    "src": "/images/salon/salon-floor.webp",
+    "width": 1200,
+    "height": 1500,
+    "blurDataURL": "data:image/webp;base64,UklGRo4AAABXRUJQVlA4IIIAAABQBQCdASoYAB4APwFysVIrJqSiqAqpYCAJZwDGfBBVuhMgypRu8RrjIj9UR0GePpWgwAAA3GprVM+4DjBt/tW+R8mU60A7f385zI1et0jkvRRIpx3QhCQQle4y0HOCxuK59al3cUgWhZyjeAmVkHsyrqzbqUf3uGap2Eg6dZ0gF7AA"
+  },
+  "salonWide": {
+    "src": "/images/salon/salon-wide.webp",
+    "width": 1800,
+    "height": 900,
+    "blurDataURL": "data:image/webp;base64,UklGRlwAAABXRUJQVlA4IFAAAAAQBACdASoYAAwAPwFsrU8rJiQiMAgBYCAJZwCw7BZenM+/wTGqZov4AAD75/REvslLVFPJoIZo6G84cuO1iz2YB+j1S81uvuj4GHoU/NaAAA=="
+  },
+  "salonEntrance": {
+    "src": "/images/salon/salon-entrance.webp",
+    "width": 1200,
+    "height": 1200,
+    "blurDataURL": "data:image/webp;base64,UklGRmwAAABXRUJQVlA4IGAAAACwBACdASoYABgAPwFyrlArJyQisBgIAWAgCWMAsOw1fVoFpDi+Du2bNMAOaNuoAP67nkGGbCEmWgUrz1u8zNaZtC+d5fhwvovtQ40knMv3sZbIL8cP/o/Zvm0xLEUAAAA="
+  }
+}
